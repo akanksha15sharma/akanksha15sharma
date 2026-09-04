@@ -1,11 +1,167 @@
-<h1 align="center">Hi 👋, I'm Akanksha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-How to reach me **akankshasharma15082005@gmail.com**
+<h1 align="center">Hi 👋, I'm Akanksha Sharma</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">
+  💻 Frontend Developer • React Developer • C++ & DSA
+</h3>
+
+<p align="center">
+  <a href="https://github.com/akanksha15sharma">
+    <img src="https://komarev.com/ghpvc/?username=akanksha15sharma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/akanksha15sharma?tab=followers">
+    <img src="https://img.shields.io/github/followers/akanksha15sharma?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/akanksha15sharma?tab=repositories">
+    <img src="https://img.shields.io/github/stars/akanksha15sharma?affiliations=OWNER&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
+## 👩‍💻 About Me
+
+* 🎓 B.Tech Computer Science Engineering student
+* 💻 Passionate about **Frontend Development & React**
+* 🌱 Currently improving my skills in **JavaScript, React & DSA**
+* 🧠 Practicing **Data Structures & Algorithms using C++**
+* 🚀 Building real-world projects with modern web technologies
+* 🎯 Preparing for **Software Development / Frontend Developer roles**
+* 💡 I enjoy turning ideas into clean, responsive and user-friendly applications
+* 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" />
+</p>
+
+### 🧩 Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akanksha15sharma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha15sharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=akanksha15sharma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akanksha15sharma&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akanksha15sharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/akanksha15sharma/AI-Image-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akanksha15sharma&repo=AI-Image-Generator&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<!-- Add more projects below -->
+
+<p align="center">
+  <a href="https://github.com/akanksha15sharma?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+JavaScript       ████████████████████░░░░  80%
+React            ██████████████████░░░░░░  75%
+DSA / C++        ████████████████░░░░░░░░  70%
+Node.js          ██████████████░░░░░░░░░░  60%
+System Design    ████████░░░░░░░░░░░░░░░░  35%
+```
+
+---
+
+# 💻 Coding Journey
+
+<p align="center">
+
+📌 <b>DSA</b> → Arrays → Strings → Linked Lists → Stack → Queue → Trees
+
+<br><br>
+
+⚛️ <b>Frontend</b> → HTML → CSS → JavaScript → React → Redux → Next.js
+
+<br><br>
+
+🚀 <b>Full Stack</b> → Node.js → Express → MongoDB → REST APIs
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:akankshasharma15082005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/akanksha15sharma">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+  ✨ "Building. Learning. Improving. Every day."
+</h3>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
