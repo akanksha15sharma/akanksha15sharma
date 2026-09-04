@@ -1,22 +1,8 @@
-<h1 align="center">Hi 👋, I'm Akanksha Sharma</h1>
+<h1 align="center">Hi 👋 I'm Akanksha</h1>
 
 <h3 align="center">
-  💻 Frontend Developer • React Developer • C++ & DSA
+  💻 Web Developer 
 </h3>
-
-<p align="center">
-  <a href="https://github.com/akanksha15sharma">
-    <img src="https://komarev.com/ghpvc/?username=akanksha15sharma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/akanksha15sharma?tab=followers">
-    <img src="https://img.shields.io/github/followers/akanksha15sharma?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/akanksha15sharma?tab=repositories">
-    <img src="https://img.shields.io/github/stars/akanksha15sharma?affiliations=OWNER&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
-  </a>
-</p>
-
----
 
 ## 👩‍💻 About Me
 
@@ -59,55 +45,10 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akanksha15sharma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha15sharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=akanksha15sharma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akanksha15sharma&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akanksha15sharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/akanksha15sharma/AI-Image-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akanksha15sharma&repo=AI-Image-Generator&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
-<!-- Add more projects below -->
-
-<p align="center">
-  <a href="https://github.com/akanksha15sharma?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
