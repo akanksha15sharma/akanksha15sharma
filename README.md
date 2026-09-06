@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Akanksha</h1>
+<h1 align="center">Hi 👋, I'm Akanksha</h1>
 
 <h3 align="center">
   💻 Web Developer 
@@ -31,12 +31,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" />
 </p>
 
-### 🧩 Backend & Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
 ### 🔧 Tools
 
 <p align="left">
@@ -59,9 +53,6 @@
 JavaScript       ████████████████████░░░░  80%
 React            ██████████████████░░░░░░  75%
 DSA / C++        ████████████████░░░░░░░░  70%
-Node.js          ██████████████░░░░░░░░░░  60%
-System Design    ████████░░░░░░░░░░░░░░░░  35%
-```
 
 ---
 
@@ -74,10 +65,6 @@ System Design    ████████░░░░░░░░░░░░░
 <br><br>
 
 ⚛️ <b>Frontend</b> → HTML → CSS → JavaScript → React → Redux → Next.js
-
-<br><br>
-
-🚀 <b>Full Stack</b> → Node.js → Express → MongoDB → REST APIs
 
 </p>
 
